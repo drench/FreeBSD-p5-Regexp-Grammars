@@ -1,6 +1,3 @@
-Regexp-Grammars adds grammatical parsing features to Perl 5.10 regexes
-
-My working version of this port is at:
-http://github.com/drench/FreeBSD-p5-Regexp-Grammars
+Regexp-Grammars adds grammatical parsing features to Perl 5.10 regexes.
 
 WWW: http://search.cpan.org/dist/Regexp-Grammars/
